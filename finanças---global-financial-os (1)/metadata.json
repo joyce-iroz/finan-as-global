@@ -1,0 +1,8 @@
+
+{
+  "name": "Finanças - Global Financial OS",
+  "description": "A high-performance personal finance dashboard featuring real-time tracking of balances, investments, savings goals, and deep architectural insights including SQL schemas and API definitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
